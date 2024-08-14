@@ -8,7 +8,7 @@ The **Microservices-discovery-server-client** project demonstrates the use of a 
 ## Features
 
 - **Discovery Server**: Acts as a centralized service registry for managing service instances.
-- **Eureka Clients**: Each service registers itself with the Discovery Server, enabling dynamic discovery.
+- **Eureka Clients**: Each service registers itself withthe Discovery Server, enabling dynamic discovery.
 - **Dynamic Scaling**: Easily run multiple instances of each service without manual port tracking.
 - **Improved Flexibility**: Remove hardcoding of service addresses and ports, facilitating smoother operations and scalability.
 
